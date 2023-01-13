@@ -12,7 +12,7 @@
 ## My previous projects:  
   
 
-HTML/CSS project [How-to-Learn](https://github.com/ssagg/how-to-learn)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)  
+- HTML/CSS project [How-to-Learn](https://github.com/ssagg/how-to-learn)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)  
   
 
 - HTML/CSS project [Russian-Travel](https://github.com/ssagg/russian-travel)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)  
@@ -79,7 +79,7 @@ HTML/CSS project [How-to-Learn](https://github.com/ssagg/how-to-learn)  / Visit 
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
