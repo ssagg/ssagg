@@ -21,7 +21,7 @@
 - JS project [Mesto](https://github.com/ssagg/mesto) / Visit on [GH Pages](https://ssagg.github.io/mesto/)  
   
 
-- React project [Mesto-React](https://github.com/ssagg/mesto-react) / Visit on TBD  
+- React project [Mesto-React](https://github.com/ssagg/mesto-react) / Visit on [GH Pages](https://ssagg.github.io/mesto-react/)   
   
 
   
