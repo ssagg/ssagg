@@ -3,7 +3,7 @@
 ### <div align="center">I'm Alex, a frontend developer</div>  
   
 
-🔭 I’m currently working on [Mesto-React](https://github.com/ssagg/mesto-react)  
+🔭 I’m currently working on BackEnd for [Mesto-React](https://github.com/ssagg/mesto-react)  
   
 
 🌱 I’m currently learning React and Node.js  
