@@ -22,7 +22,7 @@
   
 
 - React project [Mesto-React](https://github.com/ssagg/mesto-react) / Visit on [GH Pages](https://ssagg.github.io/mesto-react/)   
-  
+- React project with Registration and Authorization [Mesto-React-Auth](https://github.com/ssagg/react-mesto-auth) / 
 
   
   
