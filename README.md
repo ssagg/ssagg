@@ -6,7 +6,7 @@
 🔭 I’m currently working on BackEnd for [Mesto-React](https://github.com/ssagg/mesto-react)  
   
 
-🌱 I’m currently learning React and Node.js  
+🌱 I’m currently learning React and Node.js, Express.js, TypeScript  
   
 
 ## My previous projects:  
