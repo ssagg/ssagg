@@ -14,7 +14,7 @@
 
 - HTML/CSS project [How-to-Learn](https://github.com/ssagg/how-to-learn)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)
   
-- HTML/CSS project [Cmaping Landing Page](https://github.com/ssagg/responsive-camping-website-main)  / Visit on [https://ssagg.github.io/responsive-camping-website-main/)  
+- HTML/CSS project [Cmaping Landing Page](https://github.com/ssagg/responsive-camping-website-main)  / Visit on [Camping Landing page](https://ssagg.github.io/responsive-camping-website-main/)  
   
 - HTML/CSS project [Russian-Travel](https://github.com/ssagg/russian-travel)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)  
 
