@@ -3,8 +3,17 @@
 ### <div align="center">I'm Alex, a frontend developer</div>  
   
 
-🔭 I’m currently working on BackEnd for [Mesto-React](https://github.com/ssagg/mesto-react)  
-  
+🔭 I'm a Software Engineer with 1+ year of experience, enjoy using my HTML, CSS, Adaptive design, JavaScript,
+React, Git, and Figma skills to help create engaging and interactive websites and applications.
+I have fluent English (С1) and Russian and can easily communicate with foreign colleagues, talk to customers,
+present demos to a big team.
+My main stack:
+# JavaScript, Typescript
+# React, MobX
+# Node, ExpressJs
+# HTML5, CSS3 and preprocessors (SCSS), BEM, Responsive layouts
+# Figma layouts
+# git (GitHub)
 
 🌱 I’m currently learning React and Node.js, Express.js, TypeScript  
   
@@ -21,7 +30,6 @@
 - JS project [Mesto](https://github.com/ssagg/mesto) / Visit on [GH Pages](https://ssagg.github.io/mesto/)  
   
 - React project [Mesto-React](https://github.com/ssagg/mesto-react) / Visit on [GH Pages](https://ssagg.github.io/mesto-react/)
-- 
 - React project with Registration and Authorization [Mesto-React-Auth](https://github.com/ssagg/react-mesto-auth) / 
 
   
