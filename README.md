@@ -8,12 +8,12 @@ React, Git, and Figma skills to help create engaging and interactive websites an
 I have fluent English (С1) and Russian and can easily communicate with foreign colleagues, talk to customers,
 present demos to a big team.
 My main stack:
-# JavaScript, Typescript
-# React, MobX
-# Node, ExpressJs
-# HTML5, CSS3 and preprocessors (SCSS), BEM, Responsive layouts
-# Figma layouts
-# git (GitHub)
+- JavaScript, TypeScript
+- React, MobX
+- NodeJs, ExpressJs
+- HTML5, SCSS, BEM, Responsive layouts
+- Figma
+- Git(GitHub)
 
 🌱 I’m currently learning React and Node.js, Express.js, TypeScript  
   
