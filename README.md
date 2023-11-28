@@ -20,20 +20,11 @@ My main stack:
 
 ## My previous projects:  
   
-
-- HTML/CSS project [How-to-Learn](https://github.com/ssagg/how-to-learn)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)
-  
 - HTML/CSS project [Camping Landing Page](https://github.com/ssagg/responsive-camping-website-main)  / Visit on [Camping Landing page](https://ssagg.github.io/responsive-camping-website-main/)  
   
 - HTML/CSS project [Russian-Travel](https://github.com/ssagg/russian-travel)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)  
 
-- JS project [Mesto](https://github.com/ssagg/mesto) / Visit on [GH Pages](https://ssagg.github.io/mesto/)  
-  
-- React project [Mesto-React](https://github.com/ssagg/mesto-react) / Visit on [GH Pages](https://ssagg.github.io/mesto-react/)
 - React project with Registration and Authorization [Mesto-React-Auth](https://github.com/ssagg/react-mesto-auth) / 
-
-  
-  
 
 <br/>  
 
@@ -81,16 +72,12 @@ My main stack:
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
   
-
 <br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -100,7 +87,6 @@ My main stack:
 <br/>  
 
   
-
 <br/>  
 
 <div align="center">
