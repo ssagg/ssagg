@@ -21,18 +21,14 @@ My main stack:
 ## My previous projects:  
   
 - HTML/CSS project [Camping Landing Page](https://github.com/ssagg/responsive-camping-website-main)  / Visit on [Camping Landing page](https://ssagg.github.io/responsive-camping-website-main/)  
-  
 - HTML/CSS project [Russian-Travel](https://github.com/ssagg/russian-travel)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)  
-
-- React project with Registration and Authorization [Mesto-React-Auth](https://github.com/ssagg/react-mesto-auth) / 
+- React project with Registration and Authorization [Mesto-React-Auth](https://github.com/ssagg/react-mesto-auth) /
+- Books finder - using Google Books API [Google Books](https://github.com/ssagg/google-books_future)
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -59,12 +55,9 @@ My main stack:
 
 </td><td valign="top" width="33%">
 
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -75,18 +68,13 @@ My main stack:
 
 <br/>  
 
-## Github Stats  
-  
-<br/>  
+## Github Stats   
 
- 
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ssagg&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center">
