@@ -79,14 +79,7 @@ My main stack:
   
 <br/>  
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
+ 
 <br/>  
 
 <div align="center">
