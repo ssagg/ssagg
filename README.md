@@ -9,13 +9,13 @@ I have fluent English (С1) and Russian and can easily communicate with foreign 
 present demos to a big team.
 My main stack:
 - JavaScript, TypeScript
-- React, MobX
+- React, MobX, Zustand
 - NodeJs, ExpressJs
 - HTML5, SCSS, BEM, Responsive layouts
 - Figma
 - Git(GitHub)
 
-🌱 I’m currently learning React and Node.js, Express.js, TypeScript  
+🌱 I’m currently learning React Native, TypeScript and Redux 
   
 
 ## My previous projects:  
