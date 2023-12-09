@@ -24,7 +24,7 @@ My main stack:
 - HTML/CSS project [Russian-Travel](https://github.com/ssagg/russian-travel)  / Visit on [GH Pages](https://ssagg.github.io/russian-travel_GH_pages_test/)  
 - React project with Registration and Authorization [Mesto-React-Auth](https://github.com/ssagg/react-mesto-auth) /
 - Books finder - using Google Books API [Google Books](https://github.com/ssagg/google-books_future)
-
+- Currency Exchange on React Native. Available on App Store and Play Market soon.. [Dollar Blue](https://github.com/ssagg/Dollar-Blue-Ru)
 <br/>  
 
 ## My Skill Set  
