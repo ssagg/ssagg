@@ -9,7 +9,7 @@ I have fluent English (С1) and Russian and can easily communicate with foreign 
 present demos to a big team.
 My main stack:
 - JavaScript, TypeScript
-- React, MobX, Zustand
+- React, Redux, Redux Toolkit, MobX, 
 - NodeJs, ExpressJs
 - HTML5, SCSS, BEM, Responsive layouts
 - Figma
@@ -24,7 +24,8 @@ My main stack:
 - React project with Registration and Authorization [Mesto-React-Auth](https://github.com/ssagg/react-mesto-auth) /
 - Books finder - using Google Books API [Google Books](https://github.com/ssagg/google-books_future)
 - Currency Exchange app on React Native. Available on App Store and Play Market soon.. [Dollar Blue](https://github.com/ssagg/Dollar-Blue-Ru)
-- Dashboard example - Live Demo [Dashboard test task for kameleoon](https://lighthearted-madeleine-13b525.netlify.app)
+- Dashboard example - Live Demo on Netlify [Dashboard test task for kameleoon](https://lighthearted-madeleine-13b525.netlify.app)
+- Simple Todo App with React/ Redux/ TypeScript with CI/CD on [GH Pages](https://ssagg.github.io/mindbox_todo_test/)
 <br/>  
 
 ## My Skill Set  
