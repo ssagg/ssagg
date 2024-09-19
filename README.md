@@ -19,7 +19,7 @@ My main stack:
   
 
 ## My previous projects:  
-  
+- MinPrice - AI service for finding the best prices on sneakers and availability in stores [MinPrice](https://minprice.ru) 
 - HTML/CSS project [Camping Landing Page] / Visit on [Camping Landing page](https://ssagg.github.io/responsive-camping-website-main/)   
 - Currently working on Currency Exchange app on React Native. Available on App Store and Play Market soon.. [Dollar Blue](https://github.com/ssagg/Dollar-Blue-Ru)
 - Dashboard example - Live Demo on Netlify [Dashboard for kameleoon](https://lighthearted-madeleine-13b525.netlify.app)
