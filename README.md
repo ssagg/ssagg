@@ -9,7 +9,7 @@ I have fluent English (С1) and Russian and can easily communicate with foreign 
 present demos to a big team.
 My main stack:
 - JavaScript, TypeScript
-- React, Redux, Redux Toolkit, MobX, 
+- React, Redux Toolkit, Zustand 
 - NodeJs, ExpressJs
 - HTML5, SCSS, BEM, Responsive layouts
 - Figma
