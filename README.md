@@ -3,7 +3,7 @@
 ### <div align="center">I'm Alex, a frontend developer</div>  
   
 
-🔭 I'm a Software Engineer with 1+ year of experience, enjoy using my HTML, CSS, Adaptive design, JavaScript,
+🔭 I'm a Software Engineer with 2+ year of experience, enjoy using my HTML, CSS, Adaptive design, JavaScript,
 React, Git, and Figma skills to help create engaging and interactive websites and applications.
 I have fluent English (С1) and Russian and can easily communicate with foreign colleagues, talk to customers,
 present demos to a big team.
